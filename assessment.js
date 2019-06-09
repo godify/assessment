@@ -49,7 +49,7 @@
     '{userName}のいいところは自制心です。やばいと思ったときにしっかりと衝動を抑えられる{userName}が皆から評価されています。'
     '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒されています。'
   ];
-  
+  //
   function assessment(userName) {
     let sumOfcharCode = 0;
     for (let i = 0; i < userName.length; i++) {
